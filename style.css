@@ -1,0 +1,21 @@
+* {padding:0; margin:0}
+
+body {background: #FFC0CB; font-family: arial; color: black; 
+	margin-top: 25px;} /** bisa dengan margin: 25 0 0 0 **/
+
+header {width:900px; background:#ecf0f1; padding:25px; margin:auto; color:#DC143C; 
+	text-align: center;}
+	
+menu {width:900px; background:#3498db; padding: 25px; margin: auto; color: red}
+menu a {color: #ecf0f1; text-decoration: none; margin: 0 20px 0 0}
+menu a:hover {text-decoration: underline; 
+	color: red; text-decoration: none;} 
+
+article {width: 900px; background: #ecf0f1; padding: 25px; margin: auto; 
+	text-align: justify;}
+article h1 {margin: 0 0 10px 0}
+article p {margin: 0 0 25px 0}
+article img {float: left; margin: 0 25px 15px 0; width: 300px; height: 200px;}
+
+footer {width: 900px; background: #95a5a6; padding: 25px; margin: auto; 
+	text-align: center;}
